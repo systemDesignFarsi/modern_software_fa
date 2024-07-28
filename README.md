@@ -39,7 +39,7 @@
 
 ‏ Webhook چیست؟	
 
-HTTP 1.0 -> HTTP 1.1 -> HTTP 2.0 -> HTTP 3.0 (QUIC)	
+‏ HTTP 1.0 -> HTTP 1.1 -> HTTP 2.0 -> HTTP 3.0 (QUIC)	
 
 مقایسه SOAP  و REST  و GraphQL   و RPC.	
 
@@ -169,7 +169,7 @@ HTTP 1.0 -> HTTP 1.1 -> HTTP 2.0 -> HTTP 3.0 (QUIC)
 
 چندمدلی (Multi-model)	
 
-row-based یا Column-based؟	
+‏ row-based یا Column-based؟	
 
 پایگاه‌داده‌های SQL در مقابل NoSQL	
 
@@ -289,7 +289,7 @@ row-based یا Column-based؟
 
 فناوری رایج برای میکروسرویس‌ها چیست؟	
 
-API gateway چه کاری انجام می‌دهد؟	
+‏ API gateway چه کاری انجام می‌دهد؟	
 
 ۹ اصل اساسی قبل از ساختن میکروسرویس‌ها	
 
@@ -369,7 +369,7 @@ API gateway چه کاری انجام می‌دهد؟
 
 دروازه‌بان (Gatekeeper):	
 
-Health Endpoint Monitoring:	
+‏ Health Endpoint Monitoring:	
 
 جدول ایندکس (Index Table):	
 
