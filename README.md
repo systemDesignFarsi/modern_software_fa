@@ -8,6 +8,7 @@
 
 برای دانلود  می‌توانید از این [لینک](https://github.com/systemDesignFarsi/modern_software_fa/releases/download/publishV1.0.6/modern_software_fa.pdf) استفاده کنید.
 
+
 ## فهرست مطالب
 
 <div style="text-align:right" dir="rtl" >
@@ -616,3 +617,6 @@
 سایر کتاب‌ها	
 
 </div>
+
+
+[![HitCount](https://hits.dwyl.com/systemDesignFarsi/modern_software_fa.svg?style=flat-square)](http://hits.dwyl.com/systemDesignFarsi/modern_software_fa)
