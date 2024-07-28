@@ -27,17 +27,17 @@
 
 زیر دامنه (Subdomain)	
 
-DNS Zones	
+‏ DNS Zones	
 
-DNS Caching	
+‏ DNS Caching	
 
-Reverse DNS	
+‏ Reverse DNS	
 
-REST API در مقابل GraphQL	
+‏ REST API در مقابل GraphQL	
 
 نحوه عملکرد gRPC	
 
-Webhook چیست؟	
+‏ Webhook چیست؟	
 
 HTTP 1.0 -> HTTP 1.1 -> HTTP 2.0 -> HTTP 3.0 (QUIC)	
 
@@ -65,7 +65,7 @@ HTTP 1.0 -> HTTP 1.1 -> HTTP 2.0 -> HTTP 3.0 (QUIC)
 
 بهبود عملکرد API	
 
-GET، POST، PUT... مفاهیم رایج HTTP	
+‏ GET، POST، PUT... مفاهیم رایج HTTP	
 
 تقلب‌نامه‌ي  REST API	
 
@@ -89,7 +89,7 @@ GET، POST، PUT... مفاهیم رایج HTTP
 
 تفاوت بین  Process و  Thread چیست؟	
 
-مقایسه هم‌زمان (Concurrency) با موازی‌سازی (Parallelism)	
+‏ مقایسه هم‌زمان (Concurrency) با موازی‌سازی (Parallelism)	
 
 چگونه برنامه‌های کامپیوتری اجرا می‌شوند؟	
 
@@ -189,7 +189,7 @@ row-based یا Column-based؟
 
 تئوری CAP	
 
-تئوری PACELC	
+‏ تئوری PACELC	
 
 سطوح ایزولاسیون پایگاه‌داده	
 
@@ -197,9 +197,9 @@ row-based یا Column-based؟
 
 زبان SQL	
 
-ACID به چه معناست؟	
+‏ ACID به چه معناست؟	
 
-BASE به چه معناست؟	
+‏ BASE به چه معناست؟	
 
 ۶ مدل برتر پایگاه‌داده	
 
@@ -251,7 +251,7 @@ BASE به چه معناست؟
 
 ‏ Memcached در مقابل Redis	
 
-Redis چه کاربردهایی دارد؟	
+‏ Redis چه کاربردهایی دارد؟	
 
 حمله گم‌شدن داده در Cache	
 
@@ -271,9 +271,9 @@ Redis چه کاربردهایی دارد؟
 
 معماری‌های میکروسرویس	
 
-monolith (تک‌هسته‌ای)	
+‏ monolith (تک‌هسته‌ای)	
 
-Monolith ماژولار	
+‏ Monolith ماژولار	
 
 میکروسرویس‌ها (Microservices)	
 
@@ -311,11 +311,11 @@ API gateway چه کاری انجام می‌دهد؟
 
 ۴ مورد از متداول‌ترین انواع صف	
 
-Message Brokers	
+‏ Message Brokers	
 
-Enterprise Service Bus (ESB)	
+‏ Enterprise Service Bus (ESB)	
 
-تحول معماری صف پیام: از IBM MQ به RabbitMQ  تا Pulsar	
+‏ تحول معماری صف پیام: از IBM MQ به RabbitMQ  تا Pulsar	
 
 حداکثر یکبار، حداقل یکبار و دقیقاً یکبار	
 
@@ -395,7 +395,7 @@ Health Endpoint Monitoring:
 
 محدودسازی (Throttling):	
 
-Valet Key:	
+‏ Valet Key
 
 بازیابی فاجعه (Disaster Recovery)	
 
@@ -413,7 +413,7 @@ Valet Key:
 
 ‏ AWS Lambda پشت‌صحنه	
 
-CI/CD	
+‏ CI/CD	
 
 بخش اول - SDLC با CI/CD	
 
@@ -421,7 +421,7 @@ CI/CD
 
 بخش سوم -  pipeline CI/CD	
 
-Netflix Tech Stack (CI/CD Pipeline)	
+‏ Netflix Tech Stack (CI/CD Pipeline)	
 
 چرخه توسعه نرم‌افزار چابک	
 
@@ -435,19 +435,19 @@ Netflix Tech Stack (CI/CD Pipeline)
 
 کتاب‌های DevOps	
 
-DevOps در مقابل SRE در مقابل مهندسی پلتفرم	
+‏ DevOps در مقابل SRE در مقابل مهندسی پلتفرم	
 
-Docker چگونه کار می‌کند؟	
+‏ Docker چگونه کار می‌کند؟	
 
-k8s یا Kubernetes چیست؟	
+‏ k8s یا Kubernetes چیست؟	
 
 چهار نوع برتر سرویس‌های Kubernetes در یک نمودار	
 
-Docker در مقابل Kubernetes	
+‏ Docker در مقابل Kubernetes	
 
 تفاوت‌ها بین مجازی‌سازی (VMware) و کانتینرسازی (Docker) چیست؟	
 
-DevSecOps چیست؟	
+‏ DevSecOps چیست؟	
 
 بررسی GIT	
 
@@ -481,7 +481,7 @@ DevSecOps چیست؟
 
 تفاوت TCP و UDP	
 
-IPv4 در مقابل IPv6، تفاوت‌ها چیست؟	
+‏ IPv4 در مقابل IPv6، تفاوت‌ها چیست؟	
 
 ۸ پروتکل محبوب در شبکه	
 
@@ -495,11 +495,11 @@ IPv4 در مقابل IPv6، تفاوت‌ها چیست؟
 
 ۴ روش برتر برای مکانیزم‌های احراز هویت	
 
-•	کلیدهای SSH: از کلیدهای رمزنگاری برای دسترسی امن به سیستم‌های remote  و سرورها استفاده می‌شود.	
+‏	کلیدهای SSH: از کلیدهای رمزنگاری برای دسترسی امن به سیستم‌های remote  و سرورها استفاده می‌شود.	
 
 رمزگذاری در مقابل رمزنگاری در مقابل توکن‌سازی	
 
-Session، کوکی، JWT، توکن، SSO و OAuth 2.0 – این‌ها چه هستند؟	
+‏Session، کوکی، JWT، توکن، SSO و OAuth 2.0 – این‌ها چه هستند؟	
 
 ذخیره‌سازی رمزها	
 
@@ -515,7 +515,7 @@ Session، کوکی، JWT، توکن، SSO و OAuth 2.0 – این‌ها چه ه
 
 الگوریتم‌هایی مهم در طراحی سیستم	
 
-Quadtree	
+‏ Quadtree	
 
 چگونه رستوران‌های نزدیک را به کمک Geohash پیدا می‌کنیم؟	
 
@@ -543,7 +543,7 @@ Quadtree
 
 تحول معماری میکروسرویس Airbnb طی ۱۵ سال گذشته	
 
-Monorepo  در مقابل Microrepo	
+‏ Monorepo  در مقابل Microrepo	
 
 چگونه وب‌سایت Stack Overflow را طراحی می‌کنید؟	
 
@@ -559,7 +559,7 @@ Monorepo  در مقابل Microrepo
 
 چگونه با اسکن‌کردن کد QR از کیف پول دیجیتال پرداخت کنیم؟	
 
-سؤال مصاحبه: طراحی Gmail	
+‏ سؤال مصاحبه: طراحی Gmail	
 
 مسیر دریافت ایمیل	
 
