@@ -6,7 +6,7 @@
 
 ## دانلود
 
-برای دانلود به می‌توانید از این [لینک](https://github.com/systemDesignFarsi/modern_software_fa/releases/download/publish/modern_software_fa.pdf) استفاده کنید.
+برای دانلود  می‌توانید از این [لینک](https://github.com/systemDesignFarsi/modern_software_fa/releases/download/publishV1.0.6/modern_software_fa.pdf) استفاده کنید.
 
 ## فهرست مطالب
 
