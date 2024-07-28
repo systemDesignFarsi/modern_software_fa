@@ -330,8 +330,8 @@ Enterprise Service Bus (ESB)
 مقایسه Rabitmq و Kafka	
 
 سرویس‌ها و معماری‌های ابری	
-
-cloud native چیست؟	
+‏
+‏cloud native چیست؟	
 
 ‏ IaaS/PaaS/SaaS چیست؟	
 
