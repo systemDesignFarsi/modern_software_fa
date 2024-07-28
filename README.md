@@ -8,7 +8,7 @@
 
 ## فهرست مطالب
 
-<div style="text-align:right" dir="rtl >
+<div style="text-align:right" dir="rtl" >
 طراحی سیستم چیست؟	
 
 معنای اعداد نسخه‌های نرم‌افزاری چیست؟	
